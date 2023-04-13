@@ -1,0 +1,258 @@
+in
+cr 1
+cr 1
+to
+cr 2
+rq 3 1
+
+in
+cr 1
+rq 1 1
+cr 2
+rq 1 1
+
+in
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+cr 1
+
+in
+rq 1 1
+
+in
+cr 0
+cr 1
+cr 2
+cr 2
+to
+
+in
+cr 2
+rq 3 2
+to
+cr 2
+to
+rq 3 1
+rq 3 1
+rq 3 5
+
+in
+cr 2
+rq 3 2
+to
+cr 2
+to
+rq 3 1
+rq 3 1
+rq 3 1
+
+in
+cr 0
+to
+rq 3 3
+rq 2 2
+rq 1 1
+rq 0 1
+cr 2
+rq 3 1
+to
+cr 2
+rq 3 2
+to
+rl 3 3
+to
+to
+
+in
+cr 2
+de 1
+
+in
+de 0
+
+in
+cr 1
+rq 1 1
+cr 2
+rq 1 1
+de 1
+
+in
+cr 1
+rq 1 1
+cr 2
+rq 1 1
+de 2
+
+in
+cr 2
+cr 1
+cr 2
+to
+cr 0
+de 4
+de 3
+
+in
+cr 2
+cr 2
+cr 2
+cr 2
+cr 2
+to
+to
+to
+to
+to
+de 1
+
+in
+cr 0
+to
+rq 1 0
+
+in
+cr 0
+to
+rq 1 1
+rq 3 3
+rl 3 1
+rl 3 0
+
+in
+cr 1
+cr 1
+rq 0 1
+to
+rq 1 1
+rq 0 1
+rq 1 1
+de 1
+to
+
+in
+cr 0
+to
+cr 1
+cr 2
+rq 0 1
+rq 1 1
+rq 2 2
+rq 3 3
+rq 4 1
+
+in
+cr 0
+to
+cr 1
+cr 2
+rq 0 1
+rq 1 1
+rq 2 2
+rq 3 3
+rq -1 1
+
+in
+cr 2
+rq 2 2
+rl 2 1
+rl 2 1
+rl 2 1
+
+in
+cr 2
+rq 2 2
+rl 2 3
+
+in
+cr 2
+rq 3 2
+rl 3 3
+
+in
+rq 0 1
+
+in 
+rq -1 1
+
+in
+cr 1
+rq -1 1
+
+in
+cr 1
+rq 1 -1
+
+in
+cr 1
+rq 1 0
+
+in
+cr 1
+rq 1 2
+
+in
+cr 0
+cr 0
+to
+to
+to
+to
+to
+cr 1
+cr 1
+to
+to
+to
+to
+to
+cr 2
+to
+to
+to
+to
+to
+to
+
+in
+cr 1
+cr 1
+to
+cr 1
+cr 1
+de 3
+to
+de 2
+to
+to
+
+in
+cr 2
+cr 1
+cr 1
+cr 1
+de 1
+de 0
+
+in
+cr 2
+cr 2
+cr 2
+to
+de 2
+to
+de 3
+de 1
