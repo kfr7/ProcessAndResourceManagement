@@ -1,5 +1,14 @@
 # project1.py
 
+# HOW TO RUN:
+# 1) Place commands text file in same directory as project1.py
+# 2) Name the text file "input.txt"
+# 3) In terminal, enter "python3 project1.py"
+#                             or (depends on machine)
+#                       "python project1.py"    
+# and if you want to redirect it to a file
+#                       "python3 project1.py > output.txt"
+
 # Process and Resource Management
 
 # data structures
@@ -532,7 +541,7 @@ class OSManager:
 
 if __name__ == "__main__":
     process_and_resource_manager = OSManager()
-    with open("commands1.txt", "r") as command_shell:
+    with open("input.txt", "r") as command_shell:
         for command in command_shell:
             # get command without extra spaces
             command = command.strip()
@@ -557,7 +566,6 @@ if __name__ == "__main__":
                 if process_and_resource_manager.destroy(int(separated_command[1])) == -1:
                     process_and_resource_manager.print_formatted_error()
                     continue # don't want to call scheduler again
-
             elif separated_command[0] == "rq":
                 if process_and_resource_manager.request(int(separated_command[1]), int(separated_command[2])) == -1:
                     process_and_resource_manager.print_formatted_error()
